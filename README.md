@@ -1,6 +1,7 @@
 <!---
 {
   "id": "b3531ed1-472f-4448-b60b-c58b9671a0a2",
+  "teaches": "Memory Layout, RAM Consumption, and Addressing of C Arrays",
   "depends_on": ["c32afdd3-48c3-4ff2-b5f7-a2179a2f8093"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-07-03",
